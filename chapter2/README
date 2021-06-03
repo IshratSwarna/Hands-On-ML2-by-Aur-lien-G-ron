@@ -1,0 +1,2 @@
+In this chapter, California Housing Prices dataset from the StatLib repository is used which is not the original data. Some changes were made.
+It is a Supervised Learning more specifically it's a univariate Multiple Regression Problem where we want to predict median_house_value based on multiple features.
